@@ -5,6 +5,9 @@
     "dev:open": "parcel ./src/index.html --open",
     "build": "parcel build ./src/index.html"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "devDependencies": {
     "@types/jest": "^27.4.0",
     "@types/node": "^17.0.15",
