@@ -7,13 +7,12 @@ Calculate the most suitable station for a given device position.
 
 ## Setup
 1. Install dependencies: `npm install`
-2. Create .env file based on .env.example
-3. Build and preview: `npm run build && npm run serve`
-4. Navigate to http://localhost:3000/
+2. Build and preview: `npm run build && npm run start`
+3. Navigate to http://localhost:3000/
 
 ## Testing
 1. Install dependencies: `npm install`
-2. Rub ``npm run test`
+2. Run `npm run test`
 
 ## Heroku deployment
 1. Create a new app on Heroku
